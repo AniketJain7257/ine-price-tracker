@@ -3,8 +3,8 @@
 A full-stack web application designed to track products on the INE Mock Storefront. It allows users to search for products, select items to track, and schedule robust automated scraping of their prices and stock status over time.
 
 ## 🚀 Live Demo & Deployment
-- **Frontend (Vercel):** *[Insert Live Frontend URL Here]*
-- **Backend (Render):** *[Insert Live Backend URL Here]*
+- **Frontend (Vercel):https://ine-price-tracker-nine.vercel.app/
+- **Backend (Render): https://ine-price-tracker-nit4.onrender.com
 
 ## 🛠️ Tech Stack
 - **Frontend:** React + Vite
